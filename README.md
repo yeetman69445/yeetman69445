@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @yeetman69445
+- 👀 I’m interested in game development, game engine development, web development, 
+- 🌱 I’m currently learning python, JS and TS, ruby, rust, vlang, c, c#
+- 💞️ I’m looking to collaborate on games(in Pygame and godot).
+- 📫 How to reach me email: alex.griffin.bush2010@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: im developing a PSX horror game called bleakmoor ridge that takes inspirations from some of my favourite games.
